@@ -1,6 +1,8 @@
-# ayatrend
+![AYABRUH2](https://user-images.githubusercontent.com/79590183/223661724-a3b31d37-1a5f-4806-a6fc-524afae5c3b4.png)
+ # AyaTrend 
  This is a webview app of anilist for mobile. 
  You can do everything that you do in website directly from your phone through this app.
+ There's a native app for AyaTrend in development.
  
 ## Screenshots 
  
